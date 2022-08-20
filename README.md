@@ -1,4 +1,5 @@
 # SWOLE - Linux Distribution for Wearables
+# Smart Wearable OS that is Lightweight and Elegant
 
 ## Project End Goal
 
