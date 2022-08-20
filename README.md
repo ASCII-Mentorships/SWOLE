@@ -19,7 +19,7 @@ The end product for this project would be a fully functional linux distribution 
 
 - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/downloads/11.0/LFS-BOOK-11.0.pdf) 
 
-## Checkopints
+## Checkpoints
 
 The timeline of the project would be dynamic, hence we focus on checkpoints to be achieved and the expected completion dates would be added as required.
 
